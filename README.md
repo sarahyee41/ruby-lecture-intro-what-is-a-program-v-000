@@ -51,6 +51,7 @@ A language's keywords, like 'if' or 'end' (approximately 43).
 Literal pieces of data like this very sentence (or String).
 Finally, barewords, or variables, that are set equal to things.
 Anything that isn't one of those will cause an error.
+This is a program and it took me so long to figure what I was doing!
 lib/a_ruby_program.rb:23:in `<main>': undefined local variable or method `see' for main:Object (NameError)
 ```
 
